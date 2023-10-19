@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    【English | <a href="README-Chinese.md">Chinese</a> | <a href="README-Japanese.md">Japanese</a> | <a href="README-Korean.md">Korean</a> | <a href="README-Filipino.md">Filipino</a> | <a href="README-French.md">French</a> | <a href="README-Slovak.md">Slovak</a> | <a href="README-Portuguese.md">Portuguese</a> | <a href="README-Spanish.md">Spanish</a>】
+    【English | <a href="README-Chinese.md">Chinese</a> | <a href="README-Japanese.md">Japanese</a> | <a href="README-Korean.md">Korean</a> | <a href="README-Filipino.md">Filipino</a> | <a href="README-French.md">French</a> | <a href="README-Slovak.md">Slovak</a> | <a href="README-Portuguese.md">Portuguese</a> | <a href="README-Spanish.md">Spanish</a> | <a href="README-Dutch.md">Dutch</a>】
 </p>
 <p align="center">
     【📚 <a href="wiki.md">Wiki</a> | 🚀 <a href="wiki.md#local-demo">Local Demo</a> | 👥 <a href="Contribution.md">Community Built Software</a> | 🔧 <a href="wiki.md#customization">Customization</a>】
@@ -159,6 +159,7 @@ create a software package and generate a folder named ``/WareHouse/2048_THUNLP_t
 <a href="https://github.com/chenilim"><img src="https://avatars.githubusercontent.com/u/46905241?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 <a href="https://github.com/delconis"><img src="https://avatars.githubusercontent.com/u/5824478?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 <a href="https://github.com/eMcQuill"><img src="https://avatars.githubusercontent.com/u/139025701?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
+<a href="https://github.com/Aizhouym"><img src="https://avatars.githubusercontent.com/u/105852026?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 
 ## 🔎 Citation
 

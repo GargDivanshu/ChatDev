@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    【<a href="README.md">English</a> | <a href="README-Chinese.md">Chinese</a> | <a href="README-Japanese.md">Japanese</a> | <a href="README-Korean.md">Korean</a> | <a href="README-Filipino.md">Filipino</a> | <a href="README-French.md">French</a> | <a href="README-Slovak.md">Slovak</a> | Portuguese | <a href="README-Spanish.md">Spanish</a>】
+    【<a href="README.md">English</a> | <a href="README-Chinese.md">Chinese</a> | <a href="README-Japanese.md">Japanese</a> | <a href="README-Korean.md">Korean</a> | <a href="README-Filipino.md">Filipino</a> | <a href="README-French.md">French</a> | <a href="README-Slovak.md">Slovak</a> | Portuguese | <a href="README-Spanish.md">Spanish</a> | <a href="README-Dutch.md">Dutch</a>】
 </p>
 <p align="center">
     【📚 <a href="wiki.md">Wiki</a> | 🚀 <a href="wiki.md#local-demo">Demo Local</a> | 👥 <a href="Contribution.md">Software Construído pela Comunidade</a> | 🔧 <a href="wiki.md#customization">Personalização</a>】
@@ -146,6 +146,7 @@ Para obter informações mais detalhadas, consulte nossa Wiki, onde você pode e
 <a href="https://github.com/chenilim"><img src="https://avatars.githubusercontent.com/u/46905241?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 <a href="https://github.com/delconis"><img src="https://avatars.githubusercontent.com/u/5824478?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 <a href="https://github.com/eMcQuill"><img src="https://avatars.githubusercontent.com/u/139025701?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
+<a href="https://github.com/Aizhouym"><img src="https://avatars.githubusercontent.com/u/105852026?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 
 ## 🔎 Citação
 

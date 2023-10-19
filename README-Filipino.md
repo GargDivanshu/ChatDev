@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    【<a href="README.md">English</a> | <a href="README-Chinese.md">Chinese</a> | <a href="README-Japanese.md">Japanese</a> | <a href="README-Korean.md">Korean</a> | Filipino | <a href="README-French.md">French</a> | <a href="README-Slovak.md">Slovak</a> | <a href="README-Portuguese.md">Portuguese</a> | <a href="README-Spanish.md">Spanish</a>】
+    【<a href="README.md">English</a> | <a href="README-Chinese.md">Chinese</a> | <a href="README-Japanese.md">Japanese</a> | <a href="README-Korean.md">Korean</a> | Filipino | <a href="README-French.md">French</a> | <a href="README-Slovak.md">Slovak</a> | <a href="README-Portuguese.md">Portuguese</a> | <a href="README-Spanish.md">Spanish</a> | <a href="README-Dutch.md">Dutch</a>】
 </p>
 <p align="center">
     【📚 <a href="wiki.md">Wiki</a> | 🚀 <a href="wiki.md#local-demo">Lokal na Demo</a> | 👥 <a href="Contribution.md">Komunidad ng Kontribusyon sa Software</a> | 🔧 <a href="wiki.md#customization">Kostomisasyon</a>】
@@ -138,6 +138,7 @@ Para sa mas detalyadong impormasyon, mangyaring tingnan ang aming [Wiki](wiki.md
 <a href="https://github.com/chenilim"><img src="https://avatars.githubusercontent.com/u/46905241?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 <a href="https://github.com/delconis"><img src="https://avatars.githubusercontent.com/u/5824478?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 <a href="https://github.com/eMcQuill"><img src="https://avatars.githubusercontent.com/u/139025701?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
+<a href="https://github.com/Aizhouym"><img src="https://avatars.githubusercontent.com/u/105852026?v=4" alt="Contributor" style="width:5%; border-radius: 50%;"/></a>
 
 ## 📑 Citation
 ```
